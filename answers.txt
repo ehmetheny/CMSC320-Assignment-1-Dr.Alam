@@ -1,4 +1,7 @@
 Q1: Why might be consider using git?
 
-Answer: Using git ensures ease and efficiency when colloboratively working on software projects. Multiple people can work at the same time without difficulty. Git also makes providing documentation easy and accessible as the most common version control system (VCS).
+Answer: Git ensures ease and efficiency when collaboratively working on software. Multiple people can makes edits to the same project without difficulty. Git also has accessible docmentation as the most popular version control system (VCS).
 
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can be applied to the field of healthcare. For example, by studying how patients react to different treatments and medications, medical professionals can give more personalized care and hopefully save more lives. 
